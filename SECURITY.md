@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Security Maintainer
-- **Lead Security Maintainer: Jianmin @mrchyi
+- **Lead Security Maintainer: Jianmin Qi @mrchyi
 - **Contact:chyicn@gmail.com
 - **Scope:** All scripts, configurations, and automation tools within this repository.
 
